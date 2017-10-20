@@ -1,0 +1,75 @@
+.court{
+	background-color: #8CB27C; 
+	height: 500px;
+	width: 1000px; 
+}
+
+.borCourt{
+	background-color: #8CB27C;
+	height: 465px;
+	width: 960px; 
+	border-color: white; 
+	border-style: solid;
+	border-width: medium;
+	position: relative;
+	left: 15px;
+	top: 15px;
+}
+.arc{
+	background-color: #8CB27C;
+	height: 200px;
+	width: 125px; 
+	border-color: white; 
+	border-style: solid;
+	border-width: medium;
+}
+
+.one{
+	position: relative;
+	left: -3px;
+	top: 125px;
+}
+.two{
+	position: relative;
+	right: -832px;
+	top: -81px;
+
+}
+
+.half{
+	 width: 170px;
+     height: 170px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background-color: #8CB27C;
+     border-color: white; 
+     border-style: solid;
+     border.width: medium; 
+     position: relative;
+     left: 400px; 
+     top: -270px;
+}
+
+.ball{
+	background-image: url(img/ball.png);
+	width: 25px;
+	height: 25px; 
+	
+}
+.uno{
+	position: relative;
+	left: 110px; 
+    top: -460px;
+}
+.dos{
+	position: relative;
+	left: 480px; 
+    top: -550px;
+}
+.tres{
+	position: relative;
+	left: 800px; 
+    top: -350px;
+}
+
